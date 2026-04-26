@@ -1,4 +1,4 @@
-import "@fontsource-variable/fraunces"
+import "@fontsource-variable/fraunces/soft.css"
 import "@fontsource-variable/montserrat"
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'

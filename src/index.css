@@ -14,5 +14,5 @@
   --font-fraunces: "Fraunces Variable", serif;
 
   /* Breakpoints */
-   --breakpoint-desktop: 1440px;
+   --breakpoint-desktop: 1024px;
 }
